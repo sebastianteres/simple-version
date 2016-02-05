@@ -1,6 +1,6 @@
 {
   "name": "simple-version",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Simple app that outputs its version to the console",
   "main": "app.js",
   "scripts": {

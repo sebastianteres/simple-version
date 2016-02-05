@@ -1,2 +1,2 @@
 //For testing npm version dependencies
-console.log('1.0.0');
+console.log('2.0.0');
